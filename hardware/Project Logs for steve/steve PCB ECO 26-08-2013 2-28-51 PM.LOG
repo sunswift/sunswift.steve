@@ -1,0 +1,6 @@
+Added Component: Designator=Y1(HC49/4H)
+Added Component: Designator=Y2(HC49/4H)
+Added Pin To Net: NetName=XTALIN_U_lpc11c141 Pin=Y1-1
+Added Pin To Net: NetName=XTALOUT_U_lpc11c141 Pin=Y1-2
+Added Pin To Net: NetName=XTALIN_U_lpc11c142 Pin=Y2-1
+Added Pin To Net: NetName=XTALOUT_U_lpc11c142 Pin=Y2-2

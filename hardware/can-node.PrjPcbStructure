@@ -1,0 +1,5 @@
+Record=SheetSymbol|SourceDocument=top_level.SchDoc|Designator=CAN|SchDesignator=CAN|FileName=can_unisolated.SchDoc|SymbolType=Normal|RawFileName=can_unisolated.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=top_level.SchDoc|Designator=LMZ12001|SchDesignator=LMZ12001|FileName=LMZ12001SimplifiedGeneric.SchDoc|SymbolType=Normal|RawFileName=LMZ12001SimplifiedGeneric.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=top_level.SchDoc|Designator=LPC|SchDesignator=LPC|FileName=lpc11c14.SchDoc|SymbolType=Normal|RawFileName=lpc11c14.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=top_level.SchDoc|Designator=USB_UART|SchDesignator=USB_UART|FileName=USBserial.SchDoc|SymbolType=Normal|RawFileName=USBserial.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=TopLevelDocument|FileName=top_level.SchDoc

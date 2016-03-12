@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\william\Sunswift\steve\hardware\pcb\steve.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=steve-roundholes.txt|LayerPairs=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=steve-slotholes.txt|LayerPairs=gtl,gbl
